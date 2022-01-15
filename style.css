@@ -11,16 +11,17 @@
          color: #3A3A3A;
          
      }
-       /*--------------
-        First part 
-        ---------------------*/
+      
      .upper-top{
+        
          padding-left: 7%;
-         margin-bottom: 90px;
          font-weight: 700;
          font-size: 19px;
          
      }
+     /*--------------
+        First part 
+        ---------------------*/
      .container{
          display: flex;
          margin-bottom: 100px;
@@ -30,7 +31,7 @@
          font-size: 51px;
          
      }
-     p{
+     .font-size{
          font-weight: 700;
      }
      .link-button{
@@ -96,7 +97,16 @@
     }
 
     /*---------------
-     Third part
+     Last part
      ----------------------- */
 
-     
+  footer{
+      text-align: center;
+      background-color: #03203C;
+      color: white;
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+ 
+  
+  
