@@ -114,10 +114,10 @@
          .containers{
              width: 100%;
          }
-         .influencer .collections{
+         .top .collections, .containers, .container{
              grid-template-columns: repeat(1, 1fr);
          }
-         .influencer, .collections{
+         .top, .collections, .containers, .container{
              flex-direction: column;
          }
          
@@ -130,7 +130,7 @@
           .containers{
               width: 100%;
           }
-          .players{
+          .collections, .container, .top{
               grid-template-columns: repeat(2, 1fr);
           }
           
