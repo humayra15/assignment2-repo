@@ -1,0 +1,30 @@
+/*--------
+     Fonts
+    -------------*/
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+    /*-------------
+     Common style or utilities
+     ---------------------------- */
+     body{
+         font-family: 'Poppins', sans-serif;
+         margin: 0;
+     }
+       /*--------------
+        First division 
+        ---------------------*/
+     .upper-top{
+         padding-left: 7%;
+         margin-top:  5%;
+         
+     }
+     .container{
+         display: flex;
+         margin-bottom: 100px;
+     }
+     .link-button{
+         background-color: ;
+     }
+     .top{
+         width: 50%;
+         padding-left: 7%;
+     }
